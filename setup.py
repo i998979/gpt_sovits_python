@@ -29,7 +29,7 @@ setup(
         "typing_extensions==4.9.0",
         "typeguard==4.2.0",
         "einops",
-        "pytorch_lightning==1.8.1",
+        "pytorch_lightning==1.4.0",
     ],
     include_package_data=True,
     py_modules=['utils'],
