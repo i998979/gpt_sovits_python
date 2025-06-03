@@ -11,7 +11,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     readme="README.md",
-    python_requires=">=3.10",
+    python_requires=">=3.9",
     author="R3gm",
     url="https://github.com/R3gm/gpt_sovits_python",
     license="MIT",
