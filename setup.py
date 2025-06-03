@@ -37,7 +37,7 @@ setup(
         "torch",
         "numpy",
         "scipy",
-        "tensorboard",
+        "tensorboard==2.11.2",
         "librosa==0.9.2",
         "numba==0.56.4",
         "ffmpeg-python",
