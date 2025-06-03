@@ -24,7 +24,7 @@ setup(
         "LangSegment>=0.2.0",
         "cn2an",
         "pypinyin",
-        "jieba_fast",
+        "jieba_fast==0.53",
         "g2p_en",
         "typing_extensions==4.9.0",
         "typeguard==4.2.0",
